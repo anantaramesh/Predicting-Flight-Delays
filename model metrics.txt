@@ -1,0 +1,8 @@
+Final Model:
+RandomForestRegressor
+
+Chosen hyperparameters:
+{'n_estimators': 17, 'max_features': 'auto', 'max_depth': None, 'bootstrap': True}
+
+Final Data:
+Numerical and encoded categorical information about a flight's delay.
